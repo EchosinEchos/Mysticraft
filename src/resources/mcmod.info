@@ -1,0 +1,12 @@
+[
+{
+  "modid": "mysticraft",
+  "name": "Mysticraft Official Mod",
+  "description": "A unique mod based on the magic and the mystic",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "authorList": ["EchosinEchos"],
+  "credits": "For the moment only EchosinEchos",
+  "dependencies": ["Just Forge ^^"]
+}
+]
